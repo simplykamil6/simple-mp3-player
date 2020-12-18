@@ -1,6 +1,6 @@
 # MP3Player
 
-This is a simple mp3 player written in Python [3.9.0]
+This is a simple (very) mp3 player written in Python
 
 # Requirements
 
