@@ -9,8 +9,7 @@ This is a simple mp3 player written in Python [3.9.0]
 
 # Using the player
 
-- Run the mp3-player/mp3player/MP3Player.py file  
-  ![Running](resources/readme/images/running.png)
+- Run the mp3_player.py file
 
 - Click "Browse" to select song(s) you wish to listen to  
   ![Player](resources/readme/images/player.png)
@@ -19,7 +18,3 @@ This is a simple mp3 player written in Python [3.9.0]
 
 - Use the "Previous" and "Next" buttons to select the previous and
   the next song respectively
-
-# ENJOY
-
-![ENJOY](resources/readme/images/enjoy.png)
